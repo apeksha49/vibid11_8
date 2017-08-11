@@ -1,7 +1,7 @@
 <?php
 
 
-session_start();
+session_destroy();
 //require __DIR__.'/phpmailer/PHPMailerAutoload.php';
 function get_site_url()
 {
