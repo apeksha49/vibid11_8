@@ -2,9 +2,8 @@
 <style id="media-query">
     /* Client-specific Styles & Reset */
  
-	
 	 #outlook p {
-        padding: 30px;
+        padding: 10px;
     }
     /* .ExternalClass applies to Outlook.com (the artist formerly known as Hotmail) */
     .ExternalClass {
